@@ -1,6 +1,4 @@
 # BASD
-This repository contains the core code for the diffusion model used in data synthesis for the paper "Balanced Anomaly-guided Subgraph Diffusion for Inductive Graph Anomaly Detection" which is currently under submission to KDD 2025. We promise to provide the complete code upon acceptance.
-
 ## Environment requirement 
 ```
 dgl
